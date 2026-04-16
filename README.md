@@ -199,12 +199,6 @@ This project demonstrates a complete pipeline integrating **AI + ML + Backend + 
 
 ---
 
-## 👨‍💻 Author
-
-* Your Name
-
----
-
 ## 📄 License
 
 MIT License
