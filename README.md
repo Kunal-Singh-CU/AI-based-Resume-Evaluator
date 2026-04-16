@@ -4,6 +4,18 @@ An intelligent web application that analyzes resumes using **Artificial Intellig
 
 ---
 
+## 📸 Project Preview
+
+### 📝 Input Form
+
+![Resume Form](screenshot.png)
+
+### 📊 Analysis Results
+
+![Results](screenshot1.png)
+
+---
+
 ## 📌 Features
 
 * 📊 Resume Strength Score (0–100)
@@ -65,7 +77,7 @@ An intelligent web application that analyzes resumes using **Artificial Intellig
 
   * Mean Absolute Error (MAE): **~4.58**
 
-👉 Interpretation: Predictions are on average 4–5 points away from actual scores.
+👉 Interpretation: Predictions are on average **4–5 points away** from actual scores.
 
 ---
 
